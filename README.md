@@ -4,10 +4,14 @@
 
 <div id="badges" align="center">
   <a href="https://twitter.com/Xolgrunek">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/><br>
-    <img src="https://komarev.com/ghpvc/?username=Xolgrunek&style=flat-square&color=blue" alt=""/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+
 
   </a>
+  <a href="https://mas.to/@xol">
+    <img src="https://img.shields.io/badge/Mastodon-gray?style=for-the-badge&logo=mastodon" alt="Mastodon Badge"/><br>
+  </a>
+        <img src="https://komarev.com/ghpvc/?username=Xolgrunek&style=flat-square&color=blue" alt=""/>
 </div>
 
 ## 👨‍💻 About Me:
